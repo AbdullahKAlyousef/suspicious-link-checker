@@ -24,7 +24,7 @@ Right-click any link → **Check link safety** → see a **risk score** (Low/Med
 
 1. Safe HTTPS link
 https://example.com → Low risk (0/100)  
-(screenshots/example_https.png)
+![HTTPS example](screenshots/example_https.png)
 ---
 2. Insecure HTTP link
 http://example.com → Medium risk (40/100)  
