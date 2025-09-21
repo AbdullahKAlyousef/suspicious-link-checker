@@ -28,15 +28,15 @@ https://example.com → Low risk (0/100)
 ---
 2. Insecure HTTP link
 http://example.com → Medium risk (40/100)  
-![Medium risk](screenshots/example_http.png)
+(screenshots/example_http.png)
 ---
 3. IP address instead of domain
 http://93.184.216.34 → High risk  (100/100) 
-![High risk - IP](screenshots/example_ip.png)
+(screenshots/example_ip.png)
 ---
  4. Typosquatting domain
 http://paypa1.com → High risk (looks like PayPal)  (100/100)
-![High risk - Typosquat](screenshots/example_typosquat.png)
+(screenshots/example_typosquat.png)
 
 
 ## Notes
