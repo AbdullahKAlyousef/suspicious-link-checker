@@ -24,19 +24,19 @@ Right-click any link → **Check link safety** → see a **risk score** (Low/Med
 
 1. Safe HTTPS link
 https://example.com → Low risk (0/100)  
-![HTTPS example](screenshots/example_https.png)
+![HTTPS example](screenshots/example1.png)
 ---
 2. Insecure HTTP link
 http://example.com → Medium risk (40/100)  
-(screenshots/example_http.png)
+![HTTP example](screenshots/example2.png)
 ---
 3. IP address instead of domain
 http://93.184.216.34 → High risk  (100/100) 
-(screenshots/example_ip.png)
+![IP address example](screenshots/example3.png)
 ---
  4. Typosquatting domain
 http://paypa1.com → High risk (looks like PayPal)  (100/100)
-(screenshots/example_typosquat.png)
+![Typosquat example](screenshots/example4.png)
 
 
 ## Notes
